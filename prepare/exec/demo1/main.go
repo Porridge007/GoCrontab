@@ -1,4 +1,4 @@
-package exec
+package demo1
 
 import (
 	"os/exec"
