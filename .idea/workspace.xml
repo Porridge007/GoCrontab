@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/prepare/exec/demo3/main.go" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/prepare/cmd_usage/demo3/main.go" line="19" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3593026d-89b4-49d5-9f3e-51528e512fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepare/exec/demo3/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepare/exec/demo1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/prepare/exec/demo1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare/exec/demo1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/prepare/cmd_usage/demo1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare/exec/demo2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/prepare/cmd_usage/demo2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare/exec/demo3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/prepare/cmd_usage/demo3/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prepare/exec/demo1/main.go">
+        <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo1/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="12" selection-start-column="12" selection-end-column="12" />
@@ -28,22 +28,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prepare/exec/demo2/main.go">
+        <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo2/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo3/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prepare/exec/demo3/main.go">
+        <entry file="file://$PROJECT_DIR$/prepare/cron_usage/demo1/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#14#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -70,6 +76,7 @@
         <option value="$PROJECT_DIR$/prepare/exec/demo1/main.go" />
         <option value="$PROJECT_DIR$/prepare/exec/demo2/main.go" />
         <option value="$PROJECT_DIR$/prepare/exec/demo3/main.go" />
+        <option value="$PROJECT_DIR$/prepare/cron_usage/demo1/main.go" />
       </list>
     </option>
   </component>
@@ -79,7 +86,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -102,28 +111,14 @@
               <item name="GoCrontab" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoCrontab" type="462c0819:PsiDirectoryNode" />
               <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="exec" type="462c0819:PsiDirectoryNode" />
+              <item name="cron_usage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GoCrontab" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoCrontab" type="462c0819:PsiDirectoryNode" />
               <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="exec" type="462c0819:PsiDirectoryNode" />
+              <item name="cron_usage" type="462c0819:PsiDirectoryNode" />
               <item name="demo1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoCrontab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoCrontab" type="462c0819:PsiDirectoryNode" />
-              <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="exec" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoCrontab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoCrontab" type="462c0819:PsiDirectoryNode" />
-              <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="exec" type="462c0819:PsiDirectoryNode" />
-              <item name="demo3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoCrontab" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -178,6 +173,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoCrontab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/prepare/cron_usage/demo1/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoCrontab" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -189,6 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
@@ -199,21 +203,21 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19037078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19479801" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -224,27 +228,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prepare/exec/demo1/main.go">
+    <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo1/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prepare/exec/demo2/main.go">
+    <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo2/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prepare/exec/demo3/main.go">
+    <entry file="file://$PROJECT_DIR$/prepare/cmd_usage/demo3/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/cron_usage/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
